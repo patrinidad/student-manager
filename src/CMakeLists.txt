@@ -9,6 +9,10 @@ add_executable(student-manager
     student_manager.cpp
 )
 
+target_include_directories(student-manager PUBLIC
+    ${CMAKE_CURRENT_SOURCE_DIR}/include
+)
+
 target_link_libraries(student-manager
     ${SIMPLE_LIBRARY}
     nlohmann_json::nlohmann_json
