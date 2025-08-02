@@ -1,5 +1,8 @@
+cmake_minimum_required(VERSION 3.5.1)
+project(student-manager)
+
 find_package(nlohmann_json REQUIRED)
-find_library(SIMPLE_LIBRARY simple-library-lib)
+find_library(SIMPLE_LIBRARY simple-library-lib REQUIRED)
 
 add_executable(student-manager
     main.cpp
