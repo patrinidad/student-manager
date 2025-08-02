@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/student-manager.dir/main.cpp.o CMakeFiles/student-manager.dir/student_manager.cpp.o -o student-manager  ../../../simple-library-pt/build/src/libsimple-library-lib.a 
