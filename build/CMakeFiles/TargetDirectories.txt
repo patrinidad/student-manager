@@ -1,7 +1,0 @@
-/home/patrinidad/playground/student-manager/build/CMakeFiles/test.dir
-/home/patrinidad/playground/student-manager/build/CMakeFiles/edit_cache.dir
-/home/patrinidad/playground/student-manager/build/CMakeFiles/rebuild_cache.dir
-/home/patrinidad/playground/student-manager/build/src/CMakeFiles/student-manager.dir
-/home/patrinidad/playground/student-manager/build/src/CMakeFiles/test.dir
-/home/patrinidad/playground/student-manager/build/src/CMakeFiles/edit_cache.dir
-/home/patrinidad/playground/student-manager/build/src/CMakeFiles/rebuild_cache.dir
